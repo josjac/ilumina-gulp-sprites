@@ -1,0 +1,33 @@
+{
+  "name": "ilumina-gulp-sprites",
+  "version": "1.0.0",
+  "description": "gulp task for sprites",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.1",
+    "npm": ">=2.14.7"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp.spritesmith": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josjac/ilumina-gulp-sprites.git"
+  },
+  "keywords": [
+    "gulp",
+    "task",
+    "sprites"
+  ],
+  "author": "JOZ <josalfredyon@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/josjac/ilumina-gulp-sprites/issues"
+  },
+  "homepage": "https://github.com/josjac/ilumina-gulp-sprites#readme"
+}
